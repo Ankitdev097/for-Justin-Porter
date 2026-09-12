@@ -1,0 +1,6 @@
+{
+  "name": "Justin Porter - Personalized AI Receptionist Workflow",
+  "description": "A custom AI Inbound Call Handling Workflow built specifically for Justin Porter, Realtor LPT Realty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
